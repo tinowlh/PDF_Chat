@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_anthropic
+tiktoken
+panel
+pypdf
+notebook
+faiss-cpu
+sentence-transformers
+param
